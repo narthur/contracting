@@ -1,7 +1,7 @@
 # Contracting
 
-Nathan Arthur
-[NathanArthur.com](http://www.nathanarthur.com/)
+Nathan Arthur \
+[NathanArthur.com](http://www.nathanarthur.com/) \
 Knoxville, TN, USA
 
 ## Discovery
