@@ -1,4 +1,13 @@
-# Web Design
+# Web Design & Development
+
+## Principles
+
+- Responsive design
+- Component-based UI
+- Test-driven development
+- Continuous integration
+- Accessibility
+- Progressive enhancement
 
 ## Pre-Process
 
