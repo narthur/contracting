@@ -1,5 +1,9 @@
 # Contracting
 
+Nathan Arthur
+[NathanArthur.com](http://www.nathanarthur.com/)
+Knoxville, TN, USA
+
 ## Discovery
 
 ## Contract & Proposal
