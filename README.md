@@ -18,8 +18,6 @@ I will draft a contract which will also act as the project proposal. My contract
 - **Client Responsibilities:** What is the client expected to do in order to facilitate the completion of the contract?
 - **Cancellation:** Under what circumstances can the contract be cancelled, and how will cancellations be handled?
 
-A few of these sections deserve more explanation:
-
 ### Timeline
 
 I take a very data-driven approach to forecasting contract completion dates. I provide clients with forecasts based on my past performance in predicting task duration. This is fairer to the client, as there is no way to guarantee that a contract will be completed by a specific date.
