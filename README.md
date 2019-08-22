@@ -30,7 +30,7 @@ If a deadline is not necessary, I will inform the client with a chart of future 
 
 Below is my standard cancellation policy. Note that it may need to be adapted given a specific contract's requirements.
 
-> Both the client and the contractor are free to cancel the project at any time. If the project should be cancelled, the client agrees to pay the percentage of tasks signed off on, multiplied by the total project’s price, within 30 days of notice of cancellation.
+> Both the client and the contractor are free to cancel the project at any time. If the project should be cancelled, the client agrees to pay the percentage of tasks signed off on, multiplied by the total project’s price, within 30 days of notice of cancellation. In the event of cancellation the contractor is under no obligation to provide any deliverables which have not been signed off on.
 
 ## Execution
 
