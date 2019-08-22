@@ -18,7 +18,7 @@ A few of these sections deserve more explanation:
 
 ### Timeline
 
-I take a very data-driven approach to forecasting contract completion dates. I provide clients with forecasts based on my past performance in predicting task duration. I believe this to be fairer to the client, as there is no way to guarantee that a contract will be completed by a specific date.
+I take a very data-driven approach to forecasting contract completion dates. I provide clients with forecasts based on my past performance in predicting task duration. This is fairer to the client, as there is no way to guarantee that a contract will be completed by a specific date.
 
 If the client wishes to set a deadline for the contract, I will provide a percentage probablity that I will meet that deadline given the tasks contained in the contract, the time I have available to devote to the contract, and historical scheduling preformance data gathered from previous contracts. I will also revise this number in each of my regular contract update emails as I work through the contract.
 
