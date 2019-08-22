@@ -34,7 +34,7 @@ Below is my standard cancellation policy. Note that it may need to be adapted gi
 
 ## Execution
 
-At a minimum, I keep my clients updated via email once every one to two weeks. Communication between these regular updates is done on an as-needed basis. Contracts with unusual or specific communication needs should have these details noted in the contract.
+At a minimum, I keep my clients updated via email once every one to two weeks, excepting durations where no work is being done on the contract. Communication between these regular updates is done on an as-needed basis. Contracts with unusual or specific communication needs should have these details noted in the contract.
 
 ## Billing
 
